@@ -1734,7 +1734,7 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     server_error: "Ошибка сервера."
     unknown: "Неизвестная ошибка." # {change}
     error: "ОШИБКА"
-#    general_desc: "Something went wrong, and it’s probably our fault. Try waiting a bit and then refreshing the page, or visit one of the following links to get back to programming!"
+#    general_desc: "Что-то пошло не так, и это, наверное, наша вина. Попробуй подождать немного, а затем обновить страницу или посетить одну из следующих ссылок, чтобы вернуться к программированию!"
 
   resources:
     level: "Уровень"
@@ -1846,8 +1846,8 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     nutshell_title: "В двух словах"
     nutshell_description: "Любые ресурсы, которые мы предоставляем в Редакторе уровней можно свободно использовать как вам нравится для создания уровней. Но мы оставляем за собой право ограничивать распространение уровней самих по себе (которые создаются на codecombat.com), чтобы за них могла взиматься плата в будущем, если до этого дойдёт."
     canonical: "Английская версия этого документа является определяющей и канонической. Если есть какие-либо расхождения между переводами, документ на английском имеет приоритет."
-#    third_party_title: "Third Party Services"
-#    third_party_description: "CodeCombat uses the following third party services (among others):"
+    third_party_title: "Услуги третьих лиц"
+    third_party_description: "CodeCombat использует следующие услуги третьих лиц (в том числе):"
 
   ladder_prizes:
     title: "Турнирные призы" # This section was for an old tournament and doesn't need new translations now.
